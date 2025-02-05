@@ -1,0 +1,15 @@
+C:\Users\emre\source\repos\CleanArchitectureToDoApp\CleanArchitectureToDoApp.Application\bin\Debug\net9.0\CleanArchitectureToDoApp.Application.deps.json
+C:\Users\emre\source\repos\CleanArchitectureToDoApp\CleanArchitectureToDoApp.Application\bin\Debug\net9.0\CleanArchitectureToDoApp.Application.dll
+C:\Users\emre\source\repos\CleanArchitectureToDoApp\CleanArchitectureToDoApp.Application\bin\Debug\net9.0\CleanArchitectureToDoApp.Application.pdb
+C:\Users\emre\source\repos\CleanArchitectureToDoApp\CleanArchitectureToDoApp.Application\bin\Debug\net9.0\CleanArchitectureToDoApp.Domain.dll
+C:\Users\emre\source\repos\CleanArchitectureToDoApp\CleanArchitectureToDoApp.Application\bin\Debug\net9.0\CleanArchitectureToDoApp.Domain.pdb
+C:\Users\emre\source\repos\CleanArchitectureToDoApp\CleanArchitectureToDoApp.Application\obj\Debug\net9.0\CleanArchitectureToDoApp.Application.csproj.AssemblyReference.cache
+C:\Users\emre\source\repos\CleanArchitectureToDoApp\CleanArchitectureToDoApp.Application\obj\Debug\net9.0\CleanArchitectureToDoApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre\source\repos\CleanArchitectureToDoApp\CleanArchitectureToDoApp.Application\obj\Debug\net9.0\CleanArchitectureToDoApp.Application.AssemblyInfoInputs.cache
+C:\Users\emre\source\repos\CleanArchitectureToDoApp\CleanArchitectureToDoApp.Application\obj\Debug\net9.0\CleanArchitectureToDoApp.Application.AssemblyInfo.cs
+C:\Users\emre\source\repos\CleanArchitectureToDoApp\CleanArchitectureToDoApp.Application\obj\Debug\net9.0\CleanArchitectureToDoApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\emre\source\repos\CleanArchitectureToDoApp\CleanArchitectureToDoApp.Application\obj\Debug\net9.0\CleanArc.0EEC9174.Up2Date
+C:\Users\emre\source\repos\CleanArchitectureToDoApp\CleanArchitectureToDoApp.Application\obj\Debug\net9.0\CleanArchitectureToDoApp.Application.dll
+C:\Users\emre\source\repos\CleanArchitectureToDoApp\CleanArchitectureToDoApp.Application\obj\Debug\net9.0\refint\CleanArchitectureToDoApp.Application.dll
+C:\Users\emre\source\repos\CleanArchitectureToDoApp\CleanArchitectureToDoApp.Application\obj\Debug\net9.0\CleanArchitectureToDoApp.Application.pdb
+C:\Users\emre\source\repos\CleanArchitectureToDoApp\CleanArchitectureToDoApp.Application\obj\Debug\net9.0\ref\CleanArchitectureToDoApp.Application.dll

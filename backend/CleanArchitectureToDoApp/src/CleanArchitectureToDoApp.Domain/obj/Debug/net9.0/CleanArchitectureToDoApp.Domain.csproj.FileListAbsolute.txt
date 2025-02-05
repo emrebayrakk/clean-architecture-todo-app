@@ -1,0 +1,12 @@
+C:\Users\emre\source\repos\CleanArchitectureToDoApp\CleanArchitectureToDoApp.Domain\bin\Debug\net9.0\CleanArchitectureToDoApp.Domain.deps.json
+C:\Users\emre\source\repos\CleanArchitectureToDoApp\CleanArchitectureToDoApp.Domain\bin\Debug\net9.0\CleanArchitectureToDoApp.Domain.dll
+C:\Users\emre\source\repos\CleanArchitectureToDoApp\CleanArchitectureToDoApp.Domain\bin\Debug\net9.0\CleanArchitectureToDoApp.Domain.pdb
+C:\Users\emre\source\repos\CleanArchitectureToDoApp\CleanArchitectureToDoApp.Domain\obj\Debug\net9.0\CleanArchitectureToDoApp.Domain.csproj.AssemblyReference.cache
+C:\Users\emre\source\repos\CleanArchitectureToDoApp\CleanArchitectureToDoApp.Domain\obj\Debug\net9.0\CleanArchitectureToDoApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre\source\repos\CleanArchitectureToDoApp\CleanArchitectureToDoApp.Domain\obj\Debug\net9.0\CleanArchitectureToDoApp.Domain.AssemblyInfoInputs.cache
+C:\Users\emre\source\repos\CleanArchitectureToDoApp\CleanArchitectureToDoApp.Domain\obj\Debug\net9.0\CleanArchitectureToDoApp.Domain.AssemblyInfo.cs
+C:\Users\emre\source\repos\CleanArchitectureToDoApp\CleanArchitectureToDoApp.Domain\obj\Debug\net9.0\CleanArchitectureToDoApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\emre\source\repos\CleanArchitectureToDoApp\CleanArchitectureToDoApp.Domain\obj\Debug\net9.0\CleanArchitectureToDoApp.Domain.dll
+C:\Users\emre\source\repos\CleanArchitectureToDoApp\CleanArchitectureToDoApp.Domain\obj\Debug\net9.0\refint\CleanArchitectureToDoApp.Domain.dll
+C:\Users\emre\source\repos\CleanArchitectureToDoApp\CleanArchitectureToDoApp.Domain\obj\Debug\net9.0\CleanArchitectureToDoApp.Domain.pdb
+C:\Users\emre\source\repos\CleanArchitectureToDoApp\CleanArchitectureToDoApp.Domain\obj\Debug\net9.0\ref\CleanArchitectureToDoApp.Domain.dll
